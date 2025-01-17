@@ -8,8 +8,13 @@
 
 # Below URL for finding full details - (Text or Video form)
 
-# Youtube url: https://www.youtube.com/@sumitchahar121
+# Youtube url: https://www.youtube.com/watch?v=KAnJ1LhuGzE
 
 # Linkedin Profile: https://www.linkedin.com/in/sumit-chahar-2956a513b/
 
-# Medium link: https://medium.com/p/0835afc8427f
+# Medium link: https://medium.com/@sumitchahar96/progressbar-layout-configuration-effect-animation-in-swiftui-83139cfefd1f
+
+
+
+
+
